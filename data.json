@@ -1,0 +1,30 @@
+{
+  "name": "Sachitha Dharshana",
+  "avatar": "https://lh3.googleusercontent.com/ogw/AAEL6shOGzU7yGeRu1OCwONu5PEeYC8DXRP2EjRIKUtz0g=s400-c-mo",
+  "links": [
+    {
+      "title": "My Personal Site",
+      "href": "https://www.google.com",
+      "image": "https://lh3.googleusercontent.com/ogw/AAEL6shOGzU7yGeRu1OCwONu5PEeYC8DXRP2EjRIKUtz0g=s128-c-mo"
+    },
+    {
+      "title": "Vercel",
+      "href": "https://vercel.com",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAAOVBMVEUAAAD///+dnZ1ISEhXV1eoqKjm5uYmJiaCgoLLy8v7+/spKSmGhobPz89dXV2urq47OzuSkpJzc3PC7zZWAAAAVElEQVQ4je3PORaAIBAEUVoBFReE+x/W/ZHYM6EGVPyTMqb2r1qdwGrCwSuiA9DLZNhJEIXFkZOIPwlGLqZLYOYk3AQLE/ERdHxFKb2T3JQIqX3RBls2ASXvlYEQAAAAAElFTkSuQmCC"
+    },
+    {
+      "title": "Next.js",
+      "href": "https://nextjs.com"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/sdmkirecker"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/sachitha-dharshana"
+    }
+  ]
+}
